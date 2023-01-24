@@ -10,6 +10,3 @@ A book application built with React.js, React router, Axios library, Context API
 - Add books to bookmark and remove from bookmark
 
 API from Draftbit.com
-
-### Live link to Project
-https://thebooktrain.netlify.app/
