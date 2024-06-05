@@ -1,7 +1,7 @@
 # The Book Train
 
 ### Overview
-A book application built with React.js, React router, Axios library, Context API, Framer motion 
+A book application built with React.js, React router, Axios library, Framer motion 
 
 ## Features
 Users get to:
